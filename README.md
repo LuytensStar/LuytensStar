@@ -20,6 +20,9 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
+   ✨Hobbies✨
+
+
 - 👨🏻‍💻1. Programming 
 - ⚛︎2. Physics
 - 🌌3. Astronomy
