@@ -1,5 +1,7 @@
 ## Hi there 👋
 - 🌱 I’m currently learning Python
+  
+
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
@@ -16,9 +18,9 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
--👨🏻‍💻1. Programming 
--⚛︎2. Physics
--🌌3. Astronomy
+- 👨🏻‍💻1. Programming 
+- ⚛︎2. Physics
+- 🌌3. Astronomy
 
 <!--
 **LuytensStar/LuytensStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
