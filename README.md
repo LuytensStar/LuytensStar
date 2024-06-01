@@ -1,5 +1,7 @@
 ## Hi there 👋
 - 🌱 I’m currently learning Python
+- 🤔 Ready to solve any problem
+- 💬 Ask me about ...
   
 
 <p>
