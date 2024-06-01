@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-👨🏻‍💻1. Programming \n
-⚛︎2. Physics\n
-🌌3. Astronomy\n
+*👨🏻‍💻1. Programming 
+*⚛︎2. Physics
+*🌌3. Astronomy
 
 <!--
 **LuytensStar/LuytensStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
