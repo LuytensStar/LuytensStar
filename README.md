@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuytensStar&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuytensStar&show_icons=true)
-![Streak](https://streak-stats.demolab.com?user=LuytensStar)
-[![trophy](https://github-profile-trophy.vercel.app/?username=LuytensStar)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
